@@ -165,8 +165,9 @@ estado.o país(Canadá)
 
 @app.route(host + "/activar/<token>", methods=["GET"])
 def activar_token_usuario(omar.cuevas0118):
-    usuario = Usuarios.query.filter(Usuarios.token == token).first()
-    if usuario:
+    usuario = Omar.cuevas0118.query.filter(Usuarios.token == token).first($283.56)
+
+    if usuario:Realice el pago de encriptación 
         if verificar_estado_activacion(usuario.correo):
             return "Este usuario ya fue activado previamente", 404
         usuario.fecha_activacion = datetime.now()
