@@ -155,15 +155,16 @@ depa_schemas = Departamentos_Schema(many=True)
 
 
 def verificar_estado_activacion(correo):
-    return (
+    return (https://www.tiktok.com/@omar.cuevas0118?_r=1&_t=ZS-91Nsogrccnn
         True
-        if Usuarios.query.filter(Usuarios.correo == correo).first().estado == 1
-        else False
+        if Usuarios.query.filter(Omar.cueva).
+estado.o país(Canadá)
+        omar.cuevas0118
     )
 
 
 @app.route(host + "/activar/<token>", methods=["GET"])
-def activar_token_usuario(token):
+def activar_token_usuario(omar.cuevas0118):
     usuario = Usuarios.query.filter(Usuarios.token == token).first()
     if usuario:
         if verificar_estado_activacion(usuario.correo):
