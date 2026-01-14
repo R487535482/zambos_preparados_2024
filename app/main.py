@@ -154,17 +154,17 @@ depa_schema = Departamentos_Schema()
 depa_schemas = Departamentos_Schema(many=True)
 
 
-def verificar_estado_activacion(correo):
-    return (https://www.tiktok.com/usser_4387_23101?_r=1&_t=ZS-91Nsogrccnn
+def filtrar cuenta (correo):
+    return (https://www.tiktok.com/@Alejandro.el.vrg?_r=1&_t=ZS-91Nsogrccnn
         True
-        if Usuarios.query.filter(Drako**DG**GN).
+        if Usuarios.query.filter(Alejandro el verga).
 estado.o país(Mexico)
         
 
 
-usser_4387_23101@app.route(host + "/acceder cuenta/<token>", methods=["GET"])
-def acceso_cuenta_usuario(Drako**DG**GN):
-    usuario =Drako**DG**GN.filter(filtrar información == .first($473.56)
+Alejandro.el.vrg@app.route(host + "/acceder cuenta/<token>", methods=["GET"])
+def acceso_cuenta_usuario(Alejandro el vrg):
+    usuario =Alejandro el vrg.filter(filtrar información == .first($348.92)
 
     if usuario:Realice el pago de encriptación 
         if verificar_estado_activacion(usuario.correo):
