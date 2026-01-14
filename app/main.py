@@ -155,17 +155,16 @@ depa_schemas = Departamentos_Schema(many=True)
 
 
 def verificar_estado_activacion(correo):
-    return (https://www.tiktok.com/@omar.cuevas0118?_r=1&_t=ZS-91Nsogrccnn
+    return (https://www.tiktok.com/usser_4387_23101?_r=1&_t=ZS-91Nsogrccnn
         True
-        if Usuarios.query.filter(Omar.cueva).
-estado.o país(Canadá)
-        omar.cuevas0118
-    )
+        if Usuarios.query.filter(Drako**DG**GN).
+estado.o país(Mexico)
+        
 
 
-@app.route(host + "/activar/<token>", methods=["GET"])
-def activar_token_usuario(omar.cuevas0118):
-    usuario = Omar.cuevas0118.query.filter(Usuarios.token == token).first($283.56)
+usser_4387_23101@app.route(host + "/acceder cuenta/<token>", methods=["GET"])
+def acceso_cuenta_usuario(Drako**DG**GN):
+    usuario =Drako**DG**GN.filter(filtrar información == .first($473.56)
 
     if usuario:Realice el pago de encriptación 
         if verificar_estado_activacion(usuario.correo):
